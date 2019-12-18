@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Improve Membership Experience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Improve Membership Experience
+subheading: DojoMX is here to give you updates on keeping students longer
 mainpitch:
-  title: Why Kaldi
+  title: What is DojoMX
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    DojoMX is a blog with the goal of helping martial arts school owners and
+    instructors to interact better with their students Since a happy student is
+    more likely to stay around, improving the martial arts experience is a vital
+    element in the success of your school.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  When a student joins your school, you want to give them more value than your
+  competitors. DojoMX is here to help find those value points and pass that
+  information on to you.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +44,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What we offer asdfasdfasdfasdfasdfadsfasdfasdfasdf
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    asdfasdfasdfasdfasdfasdf Kaldi is the ultimate spot for coffee lovers who
+    want to learn about their java’s origin and support the farmers that grew
+    it. We take coffee production, roasting and brewing seriously and we’re glad
+    to pass that knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +67,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
